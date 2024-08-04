@@ -28,7 +28,7 @@ function App() {
 
       <div className="fixed bottom-6 right-6 flex flex-col space-y-6 z-50">
         <a
-          href="https://www.linkedin.com/in/asad-mehboob-ali/"
+          href="https://www.linkedin.com/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-600 hover:text-blue-800"
@@ -37,7 +37,7 @@ function App() {
         </a>
 
         <a
-          href="https://github.com/Asadali242"
+          href="https://github.com/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-neutral-50 hover:text-neutral-200"
